@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dab80493-2d1a-4a33-b6a8-d4e06adce3b5" name="Default Changelist" comment="" />
+    <list default="true" id="dab80493-2d1a-4a33-b6a8-d4e06adce3b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlit    e3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlit    e3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586320344582</updated>
-      <workItem from="1586320348200" duration="3578000" />
+      <workItem from="1586320348200" duration="4187000" />
+      <workItem from="1586422168366" duration="702000" />
     </task>
     <servers />
   </component>
@@ -91,5 +97,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586328430495" />
+    <state x="336" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586422173382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586422173382" />
   </component>
 </project>
